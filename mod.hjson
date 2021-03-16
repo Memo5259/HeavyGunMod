@@ -1,0 +1,6 @@
+name : "Heavy-Gun-Mod"
+displayName: "[orange]Example[gold] Mod" //what displays in the mod selection menu
+author: "Cobra52"
+description: "gun mode"
+version: "1.0"
+minGameVersion: "103"
